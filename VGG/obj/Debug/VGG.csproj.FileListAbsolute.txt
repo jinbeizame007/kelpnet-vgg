@@ -1,0 +1,8 @@
+C:\Users\takahashi\source\repos\VGG\VGG\bin\Debug\VGG.exe.config
+C:\Users\takahashi\source\repos\VGG\VGG\bin\Debug\VGG.exe
+C:\Users\takahashi\source\repos\VGG\VGG\bin\Debug\VGG.pdb
+C:\Users\takahashi\source\repos\VGG\VGG\obj\Debug\VGG.csprojAssemblyReference.cache
+C:\Users\takahashi\source\repos\VGG\VGG\obj\Debug\VGG.csproj.CoreCompileInputs.cache
+C:\Users\takahashi\source\repos\VGG\VGG\obj\Debug\VGG.csproj.CopyComplete
+C:\Users\takahashi\source\repos\VGG\VGG\obj\Debug\VGG.exe
+C:\Users\takahashi\source\repos\VGG\VGG\obj\Debug\VGG.pdb
